@@ -25,7 +25,7 @@ SECRET_KEY = ')&*ru4p+bm3$=b#9fc9xj4*%d#qbi*u_zwpn*!!k-zd&y3i8h!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost','0.0.0.0','192.168.1.7','15.206.70.21']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','0.0.0.0','192.168.1.7','15.206.70.21','maddil1c.mylabserver.com']
 
 
 # Application definition
